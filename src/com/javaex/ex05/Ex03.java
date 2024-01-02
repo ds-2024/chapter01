@@ -4,7 +4,8 @@ public class Ex03 {
 
 	public static void main(String[] args) {
 	
-	int[]	intArray =  new int[5];
+	int[]	intArray //배열변수 선언 
+	=  new int[5]; //int형 그릇 5개 만들기
 	
 	intArray[0] = 3;
 	intArray[1] = 6;
